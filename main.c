@@ -8,6 +8,6 @@ int main()
     fn=fnp1;
     fnp1=rf;  
   }
-  printf("\n 100-е число Фибаначи = %d \n", rf);
+  printf("\n 100th Fibonacci number = %d \n", rf);
 return 0;
 }
